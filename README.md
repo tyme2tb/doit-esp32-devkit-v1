@@ -1,4 +1,4 @@
-# PINOUT-DOIT ESP32 Devkit V1
+# DOIT ESP32 Devkit V1
 DOIT ESP32 DEVKIT V1
 
 ### References
